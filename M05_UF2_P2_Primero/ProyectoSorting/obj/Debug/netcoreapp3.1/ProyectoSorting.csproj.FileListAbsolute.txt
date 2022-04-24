@@ -1,0 +1,14 @@
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\bin\Debug\netcoreapp3.1\ProyectoSorting.exe
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\bin\Debug\netcoreapp3.1\ProyectoSorting.deps.json
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\bin\Debug\netcoreapp3.1\ProyectoSorting.runtimeconfig.json
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\bin\Debug\netcoreapp3.1\ProyectoSorting.runtimeconfig.dev.json
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\bin\Debug\netcoreapp3.1\ProyectoSorting.dll
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\bin\Debug\netcoreapp3.1\ProyectoSorting.pdb
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\obj\Debug\netcoreapp3.1\ProyectoSorting.csproj.AssemblyReference.cache
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\obj\Debug\netcoreapp3.1\ProyectoSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\obj\Debug\netcoreapp3.1\ProyectoSorting.AssemblyInfoInputs.cache
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\obj\Debug\netcoreapp3.1\ProyectoSorting.AssemblyInfo.cs
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\obj\Debug\netcoreapp3.1\ProyectoSorting.csproj.CoreCompileInputs.cache
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\obj\Debug\netcoreapp3.1\ProyectoSorting.dll
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\obj\Debug\netcoreapp3.1\ProyectoSorting.pdb
+C:\Users\Pablo2002\Source\Repos\M05_UF2_P2_Primero\ProyectoSorting\obj\Debug\netcoreapp3.1\ProyectoSorting.genruntimeconfig.cache
